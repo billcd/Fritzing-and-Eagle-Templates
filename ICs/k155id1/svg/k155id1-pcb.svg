@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Fritzing (http://www.fritzing.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="0.42in"
-   x="0in"
-   version="1.2"
-   y="0in"
+   id="svg3454"
+   viewBox="0 0 30.24 59.04"
    height="0.82in"
-   viewBox="0 0 420 820"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="k155id1-pcb.svg">
+   width="0.42in"
+   y="0in"
+   x="0in"
+   version="1.2">
   <metadata
-     id="metadata40">
+     id="metadata3532">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -31,197 +25,233 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs38" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1135"
-     inkscape:window-height="790"
-     id="namedview36"
-     showgrid="true"
-     inkscape:zoom="6.395664"
-     inkscape:cx="22.755506"
-     inkscape:cy="36.295875"
-     inkscape:window-x="508"
-     inkscape:window-y="137"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3368" />
-  </sodipodi:namedview>
-  <desc
-     id="desc4">
-    <referenceFile>dip_16_300mil_pcb.svg</referenceFile>
-  </desc>
-  <rect
-     width="55"
-     x="32.500004"
-     y="432.07629"
-     gorn="0.1.0.0"
-     height="55"
-     id="square"
-     style="fill:none;stroke:#ffbf00;stroke-width:20" />
+     id="defs3530" />
   <circle
-     cx="60.000004"
-     gorn="0.1.0.1"
-     cy="58.262714"
-     id="connector0pin"
-     r="27.5"
-     style="fill:none;stroke:#ffbf00;stroke-width:20" />
+     style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+     cy="-5.8326478"
+     cx="64.400383"
+     id="ellipse3735"
+     gorn="0.3.0.14"
+     transform="scale(1,-1)"
+     r="0" />
   <circle
-     cx="360"
-     gorn="0.1.0.2"
-     cy="60"
-     id="connector15pin"
-     r="27.5"
-     style="fill:none;stroke:#ffbf00;stroke-width:20" />
+     style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+     cy="1.3673538"
+     cx="42.800381"
+     id="ellipse3737"
+     gorn="0.3.0.15"
+     transform="scale(1,-1)"
+     r="0" />
   <circle
-     cx="60"
-     gorn="0.1.0.3"
-     cy="160"
-     id="connector1pin"
-     r="27.5"
-     style="fill:none;stroke:#ffbf00;stroke-width:20" />
+     style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+     cy="1.3673538"
+     cx="64.400383"
+     id="ellipse3739"
+     gorn="0.3.0.16"
+     transform="scale(1,-1)"
+     r="0" />
   <circle
-     cx="360"
-     gorn="0.1.0.4"
-     cy="160"
-     id="connector14pin"
-     r="27.5"
-     style="fill:none;stroke:#ffbf00;stroke-width:20" />
+     style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+     cy="-11.156978"
+     cx="61.738216"
+     id="ellipse3847"
+     gorn="0.3.0.14"
+     transform="scale(1,-1)"
+     r="0" />
   <circle
-     cx="60"
-     gorn="0.1.0.5"
-     cy="260"
-     id="connector2pin"
-     r="27.5"
-     style="fill:none;stroke:#ffbf00;stroke-width:20" />
-  <circle
-     cx="360"
-     gorn="0.1.0.6"
-     cy="260"
-     id="connector13pin"
-     r="27.5"
-     style="fill:none;stroke:#ffbf00;stroke-width:20" />
-  <circle
-     cx="60"
-     gorn="0.1.0.7"
-     cy="360"
-     id="connector3pin"
-     r="27.5"
-     style="fill:none;stroke:#ffbf00;stroke-width:20" />
-  <circle
-     cx="360"
-     gorn="0.1.0.8"
-     cy="360"
-     id="connector12pin"
-     r="27.5"
-     style="fill:none;stroke:#ffbf00;stroke-width:20" />
-  <circle
-     cx="60"
-     gorn="0.1.0.9"
-     cy="460"
-     id="connector4pin"
-     r="27.5"
-     style="fill:none;stroke:#ffbf00;stroke-width:20" />
-  <circle
-     cx="360"
-     gorn="0.1.0.10"
-     cy="460"
-     id="connector11pin"
-     r="27.5"
-     style="fill:none;stroke:#ffbf00;stroke-width:20" />
-  <circle
-     cx="60"
-     gorn="0.1.0.11"
-     cy="560"
-     id="connector5pin"
-     r="27.5"
-     style="fill:none;stroke:#ffbf00;stroke-width:20" />
-  <circle
-     cx="360"
-     gorn="0.1.0.12"
-     cy="560"
-     id="connector10pin"
-     r="27.5"
-     style="fill:none;stroke:#ffbf00;stroke-width:20" />
-  <circle
-     cx="60"
-     gorn="0.1.0.13"
-     cy="660"
-     id="connector6pin"
-     r="27.5"
-     style="fill:none;stroke:#ffbf00;stroke-width:20" />
-  <circle
-     cx="360"
-     gorn="0.1.0.14"
-     cy="660"
-     id="connector9pin"
-     r="27.5"
-     style="fill:none;stroke:#ffbf00;stroke-width:20" />
-  <circle
-     cx="60"
-     gorn="0.1.0.15"
-     cy="760"
-     id="connector7pin"
-     r="27.5"
-     style="fill:none;stroke:#ffbf00;stroke-width:20" />
-  <circle
-     cx="360"
-     gorn="0.1.0.16"
-     cy="760"
-     id="connector8pin"
-     r="27.5"
-     style="fill:none;stroke:#ffbf00;stroke-width:20" />
+     style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+     cy="-3.9569762"
+     cx="40.138218"
+     id="ellipse3849"
+     gorn="0.3.0.15"
+     transform="scale(1,-1)"
+     r="0" />
   <g
-     gorn="0.2"
-     id="silkscreen">
-    <line
-       stroke="white"
-       y1="10"
-       stroke-width="10"
-       x1="10"
-       y2="810"
-       x2="10"
-       id="line26" />
-    <line
-       stroke="white"
-       y1="810"
-       stroke-width="10"
-       x1="10"
-       y2="810"
-       x2="410"
-       id="line28" />
-    <line
-       stroke="white"
-       y1="810"
-       stroke-width="10"
-       x1="410"
-       y2="10"
-       x2="410"
-       id="line30" />
-    <line
-       stroke="white"
-       y1="10"
-       stroke-width="10"
-       x1="10"
-       y2="10"
-       x2="160"
-       id="line32" />
-    <line
-       stroke="white"
-       y1="10"
-       stroke-width="10"
-       x1="260"
-       y2="10"
-       x2="410"
-       id="line34" />
+     id="layer1">
+    <g
+       style="display:inline"
+       id="layer3">
+      <g
+         transform="matrix(-1,0,0,1,30.24,-0.12100748)"
+         id="g3515"
+         partID="1535622"
+         style="">
+        <g
+           id="silkscreen"
+           gorn="0.2">
+          <line
+             style="stroke:#ffffff;stroke-width:0.72000003"
+             id="line3518"
+             x1="0.72000003"
+             y2="58.32"
+             y1="0.72000003"
+             x2="0.72000003" />
+          <line
+             style="stroke:#ffffff;stroke-width:0.72000003"
+             id="line3520"
+             x1="0.72000003"
+             y2="58.32"
+             y1="58.32"
+             x2="29.52" />
+          <line
+             style="stroke:#ffffff;stroke-width:0.72000003"
+             id="line3522"
+             x1="29.52"
+             y2="0.72000003"
+             y1="58.32"
+             x2="29.52" />
+          <line
+             style="stroke:#ffffff;stroke-width:0.72000003"
+             id="line3524"
+             x1="0.72000003"
+             y2="0.72000003"
+             y1="0.72000003"
+             x2="11.52" />
+          <line
+             style="stroke:#ffffff;stroke-width:0.72000003"
+             id="line3526"
+             x1="18.719999"
+             y2="0.72000003"
+             y1="0.72000003"
+             x2="29.52" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="layer2">
+      <g
+         transform="translate(0.12100751,0.12100748)"
+         id="copper1">
+        <rect
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           id="rect3481"
+           width="3.96"
+           height="3.96"
+           gorn="0.3.0.0"
+           y="-35.039658"
+           x="2.3399999"
+           transform="scale(1,-1)" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           cy="-54.78228"
+           cx="4.1777987"
+           r="1.98"
+           id="circle3483"
+           gorn="0.3.0.1"
+           transform="scale(1,-1)" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           cy="-54.720001"
+           cx="25.92"
+           r="1.98"
+           id="circle3485"
+           gorn="0.3.0.2"
+           transform="scale(1,-1)" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           cy="-47.52"
+           cx="4.3200002"
+           r="1.98"
+           id="circle3487"
+           gorn="0.3.0.3"
+           transform="scale(1,-1)" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           cy="-47.52"
+           cx="25.92"
+           r="1.98"
+           id="circle3489"
+           gorn="0.3.0.4"
+           transform="scale(1,-1)" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           cy="-40.32"
+           cx="4.3200002"
+           r="1.98"
+           id="circle3491"
+           gorn="0.3.0.5"
+           transform="scale(1,-1)" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           cy="-40.32"
+           cx="25.92"
+           r="1.98"
+           id="circle3493"
+           gorn="0.3.0.6"
+           transform="scale(1,-1)" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           cy="-25.980556"
+           cx="4.1989932"
+           r="1.98"
+           id="circle3495"
+           gorn="0.3.0.7"
+           transform="scale(1,-1)" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           cy="-33.119999"
+           cx="25.92"
+           r="1.98"
+           id="circle3497"
+           gorn="0.3.0.8"
+           transform="scale(1,-1)" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           cy="-25.92"
+           cx="25.92"
+           r="1.98"
+           id="circle3501"
+           gorn="0.3.0.10"
+           transform="scale(1,-1)" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           cy="-18.719999"
+           cx="4.3200002"
+           r="1.98"
+           id="circle3503"
+           gorn="0.3.0.11"
+           transform="scale(1,-1)" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           cy="-18.719999"
+           cx="25.92"
+           r="1.98"
+           id="circle3505"
+           gorn="0.3.0.12"
+           transform="scale(1,-1)" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           cy="-11.52"
+           cx="4.3200002"
+           r="1.98"
+           id="circle3507"
+           gorn="0.3.0.13"
+           transform="scale(1,-1)" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           cy="-11.52"
+           cx="25.92"
+           id="circle3509"
+           gorn="0.3.0.14"
+           transform="scale(1,-1)"
+           r="1.98" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           cy="-4.3199987"
+           cx="4.3200002"
+           id="circle3511"
+           gorn="0.3.0.15"
+           transform="scale(1,-1)"
+           r="1.98" />
+        <circle
+           style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+           cy="-4.3199987"
+           cx="25.92"
+           id="circle3513"
+           gorn="0.3.0.16"
+           transform="scale(1,-1)"
+           r="1.98" />
+      </g>
+    </g>
   </g>
 </svg>
